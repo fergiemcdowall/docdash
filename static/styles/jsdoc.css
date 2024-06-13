@@ -311,6 +311,7 @@ footer {
   margin-left: 250px;
   display: block;
   padding: 15px;
+  padding-bottom: 100vh;
   font-style: italic;
   font-size: 90%;
 }
